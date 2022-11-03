@@ -64,7 +64,11 @@ h5{
   font-family: 'Roboto', sans-serif;
 }
 
-.remove-button{
+.removeone, .removetwo, .removethree,
+.removefour, .removefive, .removesix,
+.removeseven, .removeeight, .removenine,
+.removeten, .removeeleven, .removetwelve,
+.removethirteen, .removefourteen, .removefifteen{
   width: 40px;
   height: 40px;
   color: #ffffff;
@@ -74,7 +78,11 @@ h5{
   margin: 5px;
 }
 
-.remove-button:hover{
+.removeone:hover, .removetwo:hover, .removethree:hover,
+.removefour:hover, .removefive:hover, .removesix:hover,
+.removeseven:hover, .removeeight:hover, .removenine:hover,
+.removeten:hover, .removeeleven:hover, .removetwelve:hover,
+.removethirteen:hover, .removefourteen:hover, .removefifteen:hover{
   background-color: rgba(255, 255, 255, 0.1);
 }
 
